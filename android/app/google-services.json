@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699696405527",
+    "project_id": "vivaap-62967",
+    "storage_bucket": "vivaap-62967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699696405527:android:782061f78cd333adae9052",
+        "android_client_info": {
+          "package_name": "com.example.vivaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699696405527-fodlmctblm9lai5t2smhahjuqgsk891f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vivaapp",
+            "certificate_hash": "cb0dba54d0d53758966bd2d670e937edbcd0759a"
+          }
+        },
+        {
+          "client_id": "699696405527-u6igq0lapq52dq3ao376hc4fpj960qt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlL1YViuXaMYCcNVnyppj63s8C5G0nP0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699696405527-u6igq0lapq52dq3ao376hc4fpj960qt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
