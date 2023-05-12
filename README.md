@@ -1,16 +1,18 @@
 # vivaapp
 
-A new Flutter project.
+About : A Simple Login/Signup app with push notification.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Backend : Firebase
+Installation : 
+    1. Clone the repo from github 
+    2. Write command - flutter pub get 
+    3. connect a device / start emulator and run the app
 
-A few resources to get you started if this is your first Flutter project:
+Packages Used : 
+    1. firebase_core: ^2.11.0 : for connecting firebase
+    2. firebase_auth: ^4.5.0 : for using firebase authentication api.
+    3. cloud_firestore: ^4.6.0 : for using firestore api.
+    4. firebase_messaging: ^14.6.0 : for push notifications
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
